@@ -1,0 +1,18 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Colores para cada marca */
+#modelos.Toyota { background-color: #ffebee; border-color: #e57373; }
+#modelos.Honda { background-color: #e8f5e9; border-color: #81c784; }
+#modelos.Ford { background-color: #e3f2fd; border-color: #64b5f6; }
+#modelos.Chevrolet { background-color: #fff8e1; border-color: #ffd54f; }
+#modelos.Nissan { background-color: #f3e5f5; border-color: #ba68c8; }
+#modelos.BMW { background-color: #e0f2f1; border-color: #4db6ac; }
+#modelos.Audi { background-color: #fce4ec; border-color: #f06292; }
+#modelos.MercedesBenz { background-color: #fff3e0; border-color: #ffb74d; }
+#modelos.Hyundai { background-color: #e8eaf6; border-color: #7986cb; }
+#modelos.Kia { background-color: #e0f7fa; border-color: #4dd0e1; }
+
+/* Estilo para cuando no hay selección */
+#modelos:disabled { background-color: #f5f5f5; border-color: #ddd; }
